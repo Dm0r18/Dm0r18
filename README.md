@@ -3,9 +3,9 @@
 
 Last year student at [University of Pavia](https://web-en.unipv.it/). Cyber Security enthusiast with passion for programming, videogames and network infrastructures. Proudly from [Calabria, Italy](http://www.turiscalabria.it/website/?lang=en&categoria=/&view_type=s&id=&title=) 🇮🇹
 
-<a href="https://twitter.com/xtenzq" target="blank"><img align="left" src="icons/twitter.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://linkedin.com/in/xtenzq" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://fb.com/nrusetski" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
+<a href="mailto:dvdmorano@gmail.com?subject=Hello%20Davide,%20From%20Github" target="blank"><img align="left" src="icons/twitter.svg" alt="xtenzq" width="22px" /></a>
+<a href="https://www.linkedin.com/in/moranodavide/" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
+<a href="https://www.facebook.com/dvd.morano/" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://instagram.com/nrusetski" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://www.leetcode.com/xtenzq" target="blank"><img align="left" src="icons/leetcode.svg" alt="xtenzq" width="22px" /></a>
 <br />
