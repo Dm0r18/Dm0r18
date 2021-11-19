@@ -6,7 +6,7 @@ Last year student at [University of Pavia](https://web-en.unipv.it/). Cyber Secu
 <a href="mailto:dvdmorano@gmail.com?subject=Hello%20Davide,%20From%20Github" target="blank"><img align="left" src="icons/gmail.svg" alt="gmail" height="22" width="22" /></a>
 <a href="https://www.linkedin.com/in/moranodavide/" target="blank"><img align="left" src="icons/linkedin.svg" alt="linkedin" width="22" /></a>
 <a href="https://www.facebook.com/dvd.morano/" target="blank"><img align="left" src="icons/facebook.svg" alt="facebook" width="22" /></a>
-<a href="https://www.instagram.com/davidemorano/" target="blank"><img align="left" src="icons/instagram.svg" alt="instagram" width="23" /></a>
+<a href="https://www.instagram.com/davidemorano/" target="blank"><img align="left" src="icons/instagram.svg" alt="instagram" width="22" /></a>
 <br/>
 
 ### Info
