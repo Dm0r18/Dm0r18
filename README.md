@@ -3,10 +3,10 @@
 
 Last year student at [University of Pavia](https://web-en.unipv.it/). Cyber Security enthusiast with passion for programming, videogames and network infrastructures. Proudly from [Calabria, Italy](http://www.turiscalabria.it/website/?lang=en&categoria=/&view_type=s&id=&title=) 🇮🇹
 
-<a href="mailto:dvdmorano@gmail.com?subject=Hello%20Davide,%20From%20Github" target="blank"><img align="left" src="icons/Gmail_icon_(2020).svg" alt="Gmail" height="22" width="22"></a>
-<a href="https://www.linkedin.com/in/moranodavide/" target="blank"><img align="left" src="icons/linkedin.svg" alt="Linkedin" width="22" /></a>
-<a href="https://www.facebook.com/dvd.morano/" target="blank"><img align="left" src="icons/facebook.svg" alt="Facebook" width="22" /></a>
-<a href="https://www.instagram.com/davidemorano/" target="blank"><img align="left" src="icons/instagram.svg" alt="Instagram" width="22" /></a>
+<a href="mailto:dvdmorano@gmail.com?subject=Hello%20Davide,%20From%20Github" target="blank"><img align="left" src="icons/Gmail_icon_(2020).svg" alt="gmail" height="22" width="22" /></a>
+<a href="https://www.linkedin.com/in/moranodavide/" target="blank"><img align="left" src="icons/linkedin.svg" alt="linkedin" width="22" /></a>
+<a href="https://www.facebook.com/dvd.morano/" target="blank"><img align="left" src="icons/facebook.svg" alt="facebook" width="22" /></a>
+<a href="https://www.instagram.com/davidemorano/" target="blank"><img align="left" src="icons/instagram-2-1-logo.svg" alt="instagram" width="22" /></a>
 <br/>
 
 ### Info
