@@ -17,4 +17,4 @@ Last year student at [University of Pavia](https://web-en.unipv.it/). Cyber Secu
 - 🌏 Travel Lover: trying to complete the World map 
 - 🎉 Fun fact: I started programming at 8!
 
-### Looking for my Resume📚 E-Mail me!
+### If you're looking for my Resume📚 E-Mail me!
